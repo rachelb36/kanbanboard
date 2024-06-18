@@ -14,10 +14,10 @@
 - When a task card has a status change or is deleted, the localStorage is updated.
 
 ### Tasks completed
-- Using provided starter code, completed script.js using JQuery, wherever possible.
+- Using provided starter code, completed script.js using JQuery
 - Added a hidden modal to HTML page that opens when the user event is triggered by clicking the "Add Task" button.
-- Added BootStrap styles for styling task cards.
-- Implemented Day.js to library to work with dates.  When user clicks on date text field on modal form a pop up monthly calendar appears so user can easily pick due date.
+- Added BootStrap CSS styles for styling task cards.
+- Implemented Day.js to library to work with dates.  When user clicks on date text field on modal form a pop up monthly calendar appears, so user can easily pick due date.
 - Implemented JQuery UI "draggable" capability to task cards and made status columns "droppable".
   
 
@@ -25,7 +25,7 @@
 
 To run this project, navigate to:
 To view project, navigate to 
-<https://rmburgos.github.io/personal_blog/>
+<https://rmburgos.github.io/kanbanboard/>
 
 ## Usage
 - <img width="1667" alt="kanban_1" src="https://github.com/rmburgos/kanbanboard/assets/97217944/2e6839e9-7ef4-46ee-ac41-97def38da0a1">

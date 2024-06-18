@@ -31,10 +31,11 @@ To view project, navigate to https://rmburgos.github.io/personal_blog/
 
 
 ## Built With
-
-- JQuery
-- CSS
 - HTML
+- JQuery
+- JavaScript
+- CSS
+
 
 ## Credits
 

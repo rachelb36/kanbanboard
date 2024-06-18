@@ -1,7 +1,7 @@
 # Kanban Board
 # Challenge 5 - Third-Party APIs Challenge: Task Board
 
-## Descriptionas
+## Description
 
 - Digital Task Board
 - An "Add Task" button is at the top of the page to allow user to add a new task card.
